@@ -17,7 +17,17 @@ body{
     font-weight: 700px;
 
 }
-
+.section-taitle{
+    color: #181818;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700px;
+}
+.section-decription{
+    text-align: center;
+    font-weight: 400px;
+    
+}
 
 
 
@@ -87,4 +97,31 @@ nav a{
 }
 .baner-contant{
     max-width: 500px;
+}
+
+
+/* .main section  */
+main{
+    max-width: 1040px;
+    margin: 0px auto;
+
+}
+
+/* about  section style */
+
+.about{
+    padding: 30px;
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    margin: 130px 0px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.info-description{
+    
 }
