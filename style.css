@@ -1,0 +1,54 @@
+/* shard style */
+
+body{
+    font-family: "open sans",'sans-serif';
+}
+
+.text-primary{
+    color: orange;
+}
+.btn-primary{
+    color: white;
+    background-color: orange;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700px;
+
+}
+
+
+
+
+
+/* nav css style */
+
+.nav-title{
+    font-size:50px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+nav>ul{
+    display: flex;
+    
+    align-items: center;
+    
+}
+
+nav li{
+    list-style: none;
+    
+   padding: 20px;
+   
+
+}
+nav a{
+    text-decoration: none;
+    
+}
